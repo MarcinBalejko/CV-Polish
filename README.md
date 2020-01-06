@@ -23,6 +23,22 @@ Jako ktoś, kto specjalizował się w lingwistyce, lubię postrzegać programowa
 - RSpec & Capybara,
 - Heroku
 
+
+## Projekty
+
+
+|   Project    |   Description    | About      | Language        |
+|:------------:|:----------------:|:------------:|:------------:|
+|   [Chitter](https://github.com/MarcinBalejko/chitter-challenge)   | Building Twitter clone with Ruby, Sinatra and PostgreSQL. Strict TDD with RSpec and Capybara. 100% test coverage. Application styled with CSS / SASS. Solo project | Simple Twitter clone  |Ruby      |
+|   [Rock Paper Scissors](https://github.com/MarcinBalejko/rps-challenge)    | Building 'Rock Paper Scissors' game following strict TDD. 100% test coverage. Application deployed to Heroku. The app uses Ruby, HTML, CSS, Sinatra and Capybara technologies. Solo project. | Rock Paper Scissors in your browser | Ruby  |
+|   [DC Supervillains](https://github.com/MarcinBalejko/dc-supervillains)    | Using React to create a dynamic DC Supervillains wiki application. It handles the API calls to self-made REST API (https://github.com/MarcinBalejko/supervillain-rest-api). The app uses React, Javascript, Axios, HTML and CSS technologies. Solo project. | User can select supervillains from the database and learn some basic information about them. | JavaScript, React  |
+|   [Bookmark Manager](https://github.com/MarcinBalejko/bookmark_manager_challenge)    | Building a web app that stores web bookmarks in a database. The app utilizes Sinatra framework. 100% test coverage. Testing done using RSpec & Capybara. Application styled with CSS / SASS. Databases managed in PostgreSQL. Solo project. | Bookmark manager enables user to make an account and create his own bookmarks to web pages. Each bookmark can be commented, tagged and deleted by the user. Solo project | Ruby  |
+|   [Rails Wiki](https://github.com/MarcinBalejko/rails-wiki)   | A wikipedia-like application created in Ruby on Rails. It uses HTML, CSS, Bootstrap, Devise and PostgreSQL technologies. | Users can create an account, sign in and post articles with images. Each user can post multiple articles. Articles appear on the main page of the application and can be viewed by anyone. The articles on the wiki can be easily removed or edited, but only by their author or by administrator. | Ruby |
+|   [To-Do List](https://github.com/MarcinBalejko/todo-list-rails)   | A to-do list application created in Ruby on Rails. It was made with Ruby on Rails, HTML, CSS and PostgreSQL technologies. It also uses Devise as a tool for creating a user authentication system. Solo project.   | Users can create an account, sign in and add items to their own to-do list. The items on the list can be easily removed and modified. | Ruby  |
+|   [Epic Battle](https://github.com/MarcinBalejko/epic_battle_challenge)    | Building a game based on received wireframes. The project uses Ruby, HTML, CSS, SASS, Sinatra and Capybara technologies. Solo project | A simple battle game for signle or two players, where each player can choose his own (Family Guy themed) character and attack the opponent using various types of attacks.   |  Ruby, JavaScript  |
+
+-------
+
 ## Dodatkowe umiejętności:
 
 **Zaradność**
@@ -38,3 +54,43 @@ Pisanie kodu wymaga dużego skupienia, aby uniknąć awarii całego programu. Je
 **Cierpliwość**
 
 Cierpliwość jest zdecydowanie jedną z moich mocnych stron. Praca nad moimi projektami nauczyła mnie wytrwałości w dążeniu do celu i nie zważania na trudności i drobne niepowodzenia, które są nierozłącznym elementem w procesie tworzenia aplikacji. Ponadto, studiując język mandaryński jako mój główny kierunek, nauczyłem się, że samodyscyplina, zaangażowanie i praktyka są kluczowymi czynnikami sukcesu i jakości.
+
+
+## Edukacja
+
+#### Tianjin Foreign Studies University (TFSU) Tianjin, Chiny (2016.09 to 2019.06)
+- http://www.tjfsu.edu.cn/
+
+-  Teaching Chinese to Speakers of Other Languages (Magisterskie)
+
+#### Uniwersytet Śląski (UŚ) Katowice, Polska (2012.10 to 2016.06)
+- http://english.us.edu.pl/
+
+- Filologia angielska; specjalność: tłumaczeniowa z językiem chińskim (Licencjackie)
+
+#### Northeastern University (NEU) Shenyang, China (2014.09 to 2015.07)
+- http://english.neu.edu.cn/
+
+- Język chiński (Roczne stypendium)
+
+--------
+
+
+## Języki:
+
+Angielski: Biegły
+
+Chiński (mandaryński): Biegły
+
+Francuski: Średnio zaawansowany
+
+
+## Certyfikaty:
+
+Chinese Proficiency Test: HSK (Level 6)
+
+Chinese Proficiency Test: HSKK (Advanced)
+
+Cambridge English certificate: FCE
+
+Diploma in French Language Studies: DELF (B1)
