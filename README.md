@@ -39,6 +39,7 @@ Jako ktoś, kto specjalizował się w lingwistyce, lubię postrzegać programowa
 
 -------
 
+
 ## Dodatkowe umiejętności:
 
 **Zaradność**
@@ -78,19 +79,19 @@ Cierpliwość jest zdecydowanie jedną z moich mocnych stron. Praca nad moimi pr
 
 ## Języki:
 
-Angielski: Biegły
+**Angielski:** Biegły
 
-Chiński (mandaryński): Biegły
+**Chiński (mandaryński):** Biegły
 
-Francuski: Średnio zaawansowany
+**Francuski:** Średnio zaawansowany
 
 
 ## Certyfikaty:
 
-Chinese Proficiency Test: HSK (Level 6)
+- Chinese Proficiency Test: HSK (Level 6)
 
-Chinese Proficiency Test: HSKK (Advanced)
+- Chinese Proficiency Test: HSKK (Advanced)
 
-Cambridge English certificate: FCE
+- Cambridge English certificate: FCE
 
-Diploma in French Language Studies: DELF (B1)
+- Diploma in French Language Studies: DELF (B1)
