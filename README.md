@@ -19,7 +19,7 @@ Jako ktoś, kto specjalizował się w lingwistyce, lubię postrzegać programowa
 - Webpack
 - Socket.IO
 - Axios
-- PostgreSQL, MongoDB
+- PostgreSQL, MongoDB, Firebase
 - HTML / CSS / SASS / Bootstrap
 - Git
 - Jest, RSpec & Capybara
