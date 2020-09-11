@@ -22,7 +22,8 @@ Jako ktoś, kto specjalizował się w lingwistyce, lubię postrzegać programowa
 - PostgreSQL, MongoDB, Firebase
 - HTML / CSS / SASS / Bootstrap
 - Git
-- Jest, RSpec & Capybara
+- Jest, Enzyme, RSpec & Capybara
+- Postman
 - Heroku
 
 
